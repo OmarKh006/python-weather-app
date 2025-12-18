@@ -68,10 +68,6 @@ pip install requests
 API_KEY = "YOUR_API_KEY_HERE"
 ```
 
-⚠️ **Note:** Do not share your real API key publicly.
-
----
-
 ### 3️⃣ Run the Application
 
 ```bash
